@@ -1,0 +1,16 @@
+
+                  Relative xpath for text
+
+
+//div[2]/div/div/div[1]/a/div[2](Grocery)
+//div[2]/div/div/div[2]/a/div[2](Mobile)
+//div[2]/div/div/div[3]/a/div[2]/div(Fashion)
+//div[2]/div/div/div[4]/a/div[2]/div/div(Electonics)
+//div[2]/div/div/div[5]/a/div[2]/div/div(Home)
+//div[2]/div/div/div[6]/a/div[2](Appliance)
+//div[2]/div/div/div[7]/a/div[2](Travel)
+//div[2]/div/div/div[8]/a/div[2](Top Offers)
+//div[2]/div/div/div[9]/a/div[2]/div/div(Beauty, Toys & More)
+//div[2]/div/div/div[10]/a/div[2]/div[1]/div(Two Wheelrs)
+
+
